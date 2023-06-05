@@ -77,5 +77,5 @@ void app_main(void)
 		
 	}
 
-
+	//the main thread dies 
 }
