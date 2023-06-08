@@ -2,7 +2,7 @@
 
 ## General Part Description
 
-Resposnible for taking the soil moisture readings and at the moment providing the control signal for a pump or valve to turn on.
+Responsible for taking the soil moisture readings and at the moment providing the control signal for a pump or valve to turn on.
 The code relies on the __Nordic Semiconductors__ SDK 17.1.0 library.
 
 -------------

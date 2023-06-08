@@ -15,7 +15,7 @@ static int seteTriggerCommandHandler(int argc, char **argv);
 static esp_console_cmd_t scanCommand = {
 	
 	.command = "scanArea",
-	.help = "scan up to twenty devices in the area which are no linked",
+	.help = "scan up to listed number of devices in the area which are not linked",
 	.func = scanCommandHandler,
 	
 	
